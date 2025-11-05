@@ -3,7 +3,7 @@ layout: default
 title: Methodology Assignment 4
 ---
 
-jez004@ucsd.edu  
+Jessica Zhang (jez004@ucsd.edu)  
 **Section:** A07  
 **Mentor:** Rajeev Chhajer, Ryan Lingo
 
